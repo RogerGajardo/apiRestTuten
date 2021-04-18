@@ -9,5 +9,6 @@ Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 Dependencies
 
-spring-web 5.3.6
+Spring Boot Verison 2.4.5
+Spring Web 5.3.6
 
