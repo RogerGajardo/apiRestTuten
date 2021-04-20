@@ -12,3 +12,5 @@ Dependencies
 Spring Boot Verison 2.4.5
 Spring Web 5.3.6
 
+
+Front disponible en appConsumoApi
